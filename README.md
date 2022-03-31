@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>JOSÉ</td>
-            <td>DOLORIER&nbsp;GAJARDO</td>
+            <td>DOLORIER GAJARDO</td>
             <td>j.doloriergajardo@uandresbello.edu</td>
             <td>2</td>
             <td>4</td>
@@ -42,7 +42,7 @@
         </tr>
         <tr>
             <td>SEBASTIÁN</td>
-            <td>STUARDO DOMÍNGUEZ</td>
+            <td>STUARDO&nbsp;DOMÍNGUEZ</td>
             <td>s.stuardodomnguez@uandresbello.edu</td>
             <td>2</td>
             <td>4</td>
