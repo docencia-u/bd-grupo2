@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>JOSÉ</td>
-            <td>DOLORIER GAJARDO</td>
+            <td>DOLORIER&nbsp;GAJARDO</td>
             <td>j.doloriergajardo@uandresbello.edu</td>
             <td>2</td>
             <td>4</td>
